@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "animal": "Cat",
+        "title": "Cat",
+        "image": "CatImage1"
+    },
+    {
+        "id": 2,
+        "animal": "Dog",
+        "title": "Dog",
+        "image": "DogImage1"
+    },
+    {
+        "id": 3,
+        "animal": "Bird",
+        "title": "Bird",
+        "image": "BirdImage1"
+    }
+
+    
+]
